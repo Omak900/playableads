@@ -716,7 +716,7 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToWebPage_2() {
 		
-			window.open("https://google.com", "_blank");
+			window.open("https://play.google.com/store/search?q=slots%20era&c=apps&hl=ru&gl=US", "_blank");
 		}
 		
 		var frequency = 3;
